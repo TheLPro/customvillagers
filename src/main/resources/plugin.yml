@@ -1,0 +1,9 @@
+name: CustomVillagers
+version: '${project.version}'
+main: studio.thelpro.customvillagers.CustomVillagers
+api-version: '1.20'
+commands:
+  spawnvillager:
+    description: Spawn the villager
+  testnew:
+    description: test
